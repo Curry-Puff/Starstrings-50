@@ -1,6 +1,6 @@
 # STRINGSTARS 50
 
-Hello everyone, my name is Anirudh Thumma and this is my CS50 final project!
+Hello, my name is Anirudh Thumma and this is my CS50 final project!
 
 
 * This is a platformer and so all you need to do to win is to just reach the end
